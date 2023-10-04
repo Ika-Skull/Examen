@@ -15,3 +15,5 @@ Durante mi grado medio de SMR, estuve como estudiante de prácticas en una tiend
  Tengo en mente aprender modelaje 3D y algún lenguaje de programación para hacer cosas relacionadas con el ámbito de los videojuegos. También estoy interesado en el hardware, por lo que no sería una mala idea trabajar en un taller para reparar dispositivos.
  Para finalizar mi documento, tengo una frase que uso mucho a la hora de trabajar, que me gustaría compartir:
 > No importa qué, confía en el proceso.
+
+Gracias por leer.
